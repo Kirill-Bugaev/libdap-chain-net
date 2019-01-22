@@ -24,7 +24,7 @@
 #include <asm/byteorder.h>
 #include <sched.h>
 #include <math.h>
-#include <netinet/in.h>
+//#include <netinet/in.h>
 #include <netinet/ip.h>
 #include <netinet/ip6.h>
 #include <netinet/ip_icmp.h>
